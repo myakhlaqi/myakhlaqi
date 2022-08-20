@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @myakhlaqi
-- 👀 I’m interested in MEAN web stack, Cloud computing, ML
-- 🌱 I’m currently learning Google Cloud Platform, Kubernetes, Docker, MEAN stack
-- 💞️ I’m looking to collaborate on Cloud computing, DevOps, and web projects.
+- 👋 Hi, I’m a full stack engineer
+- 👀 I have work experiance of working with different software stack and also intrested in Cloud computing, and ML
+- 🌱 I’m currently learning Google Cloud Platform and AWS ML
+- 💞️ I’m looking to collaborate on software project.
 - 📫 reach me by email at : yahya.akhlaghi@gmail.com
 
 <!---
